@@ -13,7 +13,6 @@ mutual-funds-market-analysis/
 │
 ├── docs/
 │ ├── data_model.png
-│ └── dax_measures.txt
 │
 ├── README.md
 
