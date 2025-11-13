@@ -1,4 +1,4 @@
-##📊 Mutual Funds Market Analysis and Performance Insights (2019–2025)
+📊 Mutual Funds Market Analysis and Performance Insights (2019–2025)
 🧩 Project Overview
 
 This project analyzes the Indian Mutual Funds Market from 2019–2025, focusing on fund mobilization, redemptions, net inflows, and Assets Under Management (AUM) across various scheme types and categories.
