@@ -186,10 +186,3 @@ This project transformed complex financial data into **clear, actionable insight
 `#PowerBI` `#DataAnalysis` `#MutualFunds` `#FinanceAnalytics`  
 `#DAX` `#DataVisualization` `#ExcelPowerQuery`
 
----
-
-## 🚀 How to Use
-1. Download the `mutual_funds.pbix` file from the dashboards folder.
-2. Open it in Power BI Desktop.
-3. Explore the dashboards using filters and slicers.
-
