@@ -1,8 +1,8 @@
 # 📊 Mutual Funds Market Analysis and Performance Insights (2019–2025)
-![Dashboard Preview](dashboards/dashboard_screenshots/Market_Analysis_1.png)
 
 > **Tools:** Power BI | Excel | DAX | Power Query | Data Modeling  
 > **Domain:** Finance | Investment Analytics
+
 
 ## 🧩 Project Overview
 This project analyzes the **Indian Mutual Funds Market (2019–2025)**, focusing on fund mobilization, redemptions, net inflows, and **Assets Under Management (AUM)** across various scheme types and categories.  
@@ -147,6 +147,8 @@ Developed **interactive Power BI dashboards** addressing all problem statements 
 - Investor Distribution – Funnel charts and tree maps for category analysis.  
 - AUM Trends – Area charts for growth over time.  
 - Investor Engagement – Donut charts for folio contributions.
+
+  ![Dashboard Preview](dashboards/dashboard_screenshots/Market_Analysis_1.png)
 
 ---
 
