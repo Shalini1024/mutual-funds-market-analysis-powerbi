@@ -110,31 +110,6 @@ Compare and visualize contributions of different scheme categories and their per
 
 ---
 
-## 🧩 Data Modeling & DAX (Power BI)
-
-### 🗂️ Data Modeling
-- Created a **Calendar Table** linked to the main dataset via the Date field for time-based analysis.
-
-### 🧮 DAX Components
-
-#### 📊 Calculated Columns
-- Inflow/Outflow Status  
-- Activity Flag
-
-#### 📏 Measures
-- Total Funds Mobilized  
-- Total Withdrawals (Redemptions)  
-- Total Net Inflow / Outflow  
-- Total Net AUM  
-- Inflow Percentage (%)  
-- Average Investment per Scheme  
-
-#### ⚙️ Parameters
-- Funds Parameter (for fund movement trends)  
-- Investors Parameter (for participation comparison)
-
----
-
 ## 📉 Analysis & Visualizations
 
 Developed **interactive Power BI dashboards** addressing all problem statements using:
